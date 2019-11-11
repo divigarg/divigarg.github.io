@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: DiviGarg IITK
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: divigarg@iitk.ac.in, divyansh.gargsg@gmail.com
+phone: (+91)7056472104
+address: A-213,Hall 13,IIT Kanpur, Kanpur, Uttar Pradesh, India (208016)
 
 menu:
 - {name: About, link: '/about/'}
@@ -38,8 +38,8 @@ hero:
   hero-title: Hi! I’m <br> Divyansh Garg <br> PClub Member
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/divyansh.garg.77582"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/divigarg_2002/"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
@@ -49,7 +49,7 @@ social:
 
 # About Section
 blurb:
-  My name is Divyansh Garg. I am a student of Indian Institute of Technology Kanpur with brach Computer Science and Engineering.My rank in JEE Advanced is 99.
+  My imagination completely controls me, and forever feeds the fire that burns with dark red light in my heart by bringing me the best dreams. I've always had a wild imagination, a big heart and a tortured soul so I feel that dark fantasy, love and horror are in my blood
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
