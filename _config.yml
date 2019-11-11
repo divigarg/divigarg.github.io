@@ -3,7 +3,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 name: "Divyansh Garg"
 emailid: "divigarg@iitk.ac.in"
-keywords: "Divyansh, Garg, IITK,Kanpur,Programming, Club"
+keywords: "Divyansh, Garg, IITK,Kanpur,Programming, Club,divigarg,iitk"
 
 # Build settings
 markdown: kramdown
