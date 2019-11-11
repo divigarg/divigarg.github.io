@@ -1,18 +1,9 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Divyansh Garg
+image: assets/images/about/ansdivi.jpeg
+signature: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I am an undergraduate currently in first year at Indian Institute of Technology, Kanpur with Computer Science and Engineering as core branch.I am from Hisar which is a city in Haryana about 400 kms for  Delhi. My hobbies include surfing on internet and coding. I am also a lover of mobile games a lot. 
